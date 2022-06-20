@@ -8,35 +8,28 @@ The objective of this project is to build and evaluate machine learning modules 
 
 ## Results
 1. Naive Random Oversampling
-    * Text
 
-![Imgs/2.png](https://github.com/c-ramos/MechaCar_Statistical_Analysis/blob/cd156b340c72ef6d126412176590dbe812b2adbb/Imgs/2.png)
+![Imgs/1.png](https://github.com/c-ramos/Credit_Risk_Analysis/blob/afbcb11dc8c0dcb208ef7dd0e264fdeb7be2d2bf/Imgs/1.png)
 
-2. SMOTE Oversampling
-    * Text
-    
-![Imgs/2.png](https://github.com/c-ramos/MechaCar_Statistical_Analysis/blob/cd156b340c72ef6d126412176590dbe812b2adbb/Imgs/2.png)
+2. SMOTE Oversampling   
+
+![Imgs/02_SMOTE.png](https://github.com/c-ramos/Credit_Risk_Analysis/blob/afbcb11dc8c0dcb208ef7dd0e264fdeb7be2d2bf/Imgs/02_SMOTE.png)
 
 3. Cluster Centroid Undersampling
-    * Text
-    
-![Imgs/2.png](https://github.com/c-ramos/MechaCar_Statistical_Analysis/blob/cd156b340c72ef6d126412176590dbe812b2adbb/Imgs/2.png)
+
+![Imgs/03_CLUSTERCENTROID.png](https://github.com/c-ramos/Credit_Risk_Analysis/blob/afbcb11dc8c0dcb208ef7dd0e264fdeb7be2d2bf/Imgs/03_CLUSTERCENTROID.png)
 
 4. SMOTEENN Combination Sampling
-    * Text
-    
-![Imgs/2.png](https://github.com/c-ramos/MechaCar_Statistical_Analysis/blob/cd156b340c72ef6d126412176590dbe812b2adbb/Imgs/2.png)
 
-5. Balanced Random Forest Classifier
-    * Text
-    
-![Imgs/2.png](https://github.com/c-ramos/MechaCar_Statistical_Analysis/blob/cd156b340c72ef6d126412176590dbe812b2adbb/Imgs/2.png)
+![Imgs/04_SMOTEENN.png](https://github.com/c-ramos/Credit_Risk_Analysis/blob/afbcb11dc8c0dcb208ef7dd0e264fdeb7be2d2bf/Imgs/04_SMOTEENN.png)
+
+5. Balanced Random Forest Classifier 
+
+![Imgs/05_BRF.png](https://github.com/c-ramos/Credit_Risk_Analysis/blob/afbcb11dc8c0dcb208ef7dd0e264fdeb7be2d2bf/Imgs/05_BRF.png)
 
 6. Easy Ensemble AdaBoost Classifier
-    * Text
-    
-![Imgs/2.png](https://github.com/c-ramos/MechaCar_Statistical_Analysis/blob/cd156b340c72ef6d126412176590dbe812b2adbb/Imgs/2.png)
 
+![Imgs/06_EEC.png](https://github.com/c-ramos/Credit_Risk_Analysis/blob/afbcb11dc8c0dcb208ef7dd0e264fdeb7be2d2bf/Imgs/06_EEC.png)
 
 ## Summary 
 All six models had a low precision rate for high risk . Easy Ensemble AdaBoost Classifier was the highest with 7% 

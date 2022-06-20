@@ -32,6 +32,4 @@ The objective of this project is to build and evaluate machine learning modules 
 ![Imgs/06_EEC.png](https://github.com/c-ramos/Credit_Risk_Analysis/blob/afbcb11dc8c0dcb208ef7dd0e264fdeb7be2d2bf/Imgs/06_EEC.png)
 
 ## Summary 
-All six models had a low precision rate for high risk . Easy Ensemble AdaBoost Classifier was the highest with 7% 
-summary of results
-recommendation of which nodel to use, or ther eis ino recommendation with a justification 
+Easy Ensemble Ada Boost Classifier is the chosen model because of its high accuracy, precision, sensitivity. All six models had a low precision rate for high risk. Easy Ensemble AdaBoost Classifier was the highest with 9% prescision, meaning that out of all individuals classified as high risk only %9 were actually high risk. However, all the models had a perfect precision for low-risk customers (LOW_RISK = 1.00). Next, the model with the highest sensisitivity was Easy Ensemble Ada Boost Classifier with 92% for high risk ands 94% for low risk individals. Finally, the balanced accuracy score for this model was also the highest out of the alogrithms.
